@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<title>AlphaMT -  Usuário</title>
+<title>LosPollosHermanos -  Usuário</title>
 </HEAD>
 <link rel="shortcut icon" type="/img/mini_logo.png" href="../img/logobranco.png">
 
